@@ -13,3 +13,6 @@ c:\users\jcnot\documents\visual studio 2013\Projects\Simple Cash 1.0 with SQL\Si
 C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\Simple Cash 1.0 with SQL\Simple Cash 1.0 with SQL\obj\Debug\Simple_Cash_1._0_with_SQL.frmLogin.resources
 C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\Simple Cash 1.0 with SQL\Simple Cash 1.0 with SQL\obj\Debug\Simple_Cash_1._0_with_SQL.frmCadastroFuncionario.resources
 C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\Simple Cash 1.0 with SQL\Simple Cash 1.0 with SQL\obj\Debug\Simple_Cash_1._0_with_SQL.frmGerente.resources
+C:\Users\JCNOT\Documents\GitHub\Caixa-SQL-Server-CSharp\Simple Cash 1.0 with SQL\bin\Debug\Simple Cash 1.0 with SQL.exe.config
+C:\Users\JCNOT\Documents\GitHub\Caixa-SQL-Server-CSharp\Simple Cash 1.0 with SQL\obj\Debug\Simple Cash 1.0 with SQL.exe
+C:\Users\JCNOT\Documents\GitHub\Caixa-SQL-Server-CSharp\Simple Cash 1.0 with SQL\obj\Debug\Simple Cash 1.0 with SQL.pdb
